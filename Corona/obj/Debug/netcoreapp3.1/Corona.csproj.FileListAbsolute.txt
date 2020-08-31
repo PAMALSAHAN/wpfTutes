@@ -1,0 +1,17 @@
+F:\udemy\.netWPF\work\wpfTutes\Corona\bin\Debug\netcoreapp3.1\Corona.exe
+F:\udemy\.netWPF\work\wpfTutes\Corona\bin\Debug\netcoreapp3.1\Corona.deps.json
+F:\udemy\.netWPF\work\wpfTutes\Corona\bin\Debug\netcoreapp3.1\Corona.runtimeconfig.json
+F:\udemy\.netWPF\work\wpfTutes\Corona\bin\Debug\netcoreapp3.1\Corona.runtimeconfig.dev.json
+F:\udemy\.netWPF\work\wpfTutes\Corona\bin\Debug\netcoreapp3.1\Corona.dll
+F:\udemy\.netWPF\work\wpfTutes\Corona\bin\Debug\netcoreapp3.1\Corona.pdb
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\Corona.csprojAssemblyReference.cache
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\App.g.cs
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\Corona_MarkupCompile.cache
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\Corona_MarkupCompile.lref
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\Corona.g.resources
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\Corona.AssemblyInfoInputs.cache
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\Corona.AssemblyInfo.cs
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\Corona.dll
+F:\udemy\.netWPF\work\wpfTutes\Corona\obj\Debug\netcoreapp3.1\Corona.pdb
