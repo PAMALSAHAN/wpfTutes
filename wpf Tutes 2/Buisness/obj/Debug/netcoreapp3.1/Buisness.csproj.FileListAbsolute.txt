@@ -1,0 +1,17 @@
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\bin\Debug\netcoreapp3.1\Buisness.exe
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\bin\Debug\netcoreapp3.1\Buisness.deps.json
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\bin\Debug\netcoreapp3.1\Buisness.runtimeconfig.json
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\bin\Debug\netcoreapp3.1\Buisness.runtimeconfig.dev.json
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\bin\Debug\netcoreapp3.1\Buisness.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\bin\Debug\netcoreapp3.1\Buisness.pdb
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\Buisness.csprojAssemblyReference.cache
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\App.g.cs
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\Buisness_MarkupCompile.cache
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\Buisness_MarkupCompile.lref
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\MainWindow.baml
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\Buisness.g.resources
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\Buisness.AssemblyInfoInputs.cache
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\Buisness.AssemblyInfo.cs
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\Buisness.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\Buisness\obj\Debug\netcoreapp3.1\Buisness.pdb

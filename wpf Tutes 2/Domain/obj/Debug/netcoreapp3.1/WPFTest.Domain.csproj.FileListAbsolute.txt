@@ -1,0 +1,8 @@
+F:\udemy\.netWPF\work\wpf Tutes 2\Domain\bin\Debug\netcoreapp3.1\WPFTest.Domain.deps.json
+F:\udemy\.netWPF\work\wpf Tutes 2\Domain\bin\Debug\netcoreapp3.1\WPFTest.Domain.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\Domain\bin\Debug\netcoreapp3.1\WPFTest.Domain.pdb
+F:\udemy\.netWPF\work\wpf Tutes 2\Domain\obj\Debug\netcoreapp3.1\WPFTest.Domain.csprojAssemblyReference.cache
+F:\udemy\.netWPF\work\wpf Tutes 2\Domain\obj\Debug\netcoreapp3.1\WPFTest.Domain.AssemblyInfoInputs.cache
+F:\udemy\.netWPF\work\wpf Tutes 2\Domain\obj\Debug\netcoreapp3.1\WPFTest.Domain.AssemblyInfo.cs
+F:\udemy\.netWPF\work\wpf Tutes 2\Domain\obj\Debug\netcoreapp3.1\WPFTest.Domain.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\Domain\obj\Debug\netcoreapp3.1\WPFTest.Domain.pdb

@@ -1,0 +1,13 @@
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\EntityFramework.deps.json
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\EntityFramework.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.csprojAssemblyReference.cache
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfoInputs.cache
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfo.cs
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\Domain.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\EntityFramework.runtimeconfig.json
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\EntityFramework.runtimeconfig.dev.json
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\EntityFramework.pdb
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\Domain.pdb
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.csproj.CopyComplete
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTest.Domain", "..\Domain\WPFTest.Domain.csproj", "{91A2F167-8D99-48CC-8D3D-87A3B12FB514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTest.EntityFramework", "..\EntityFramework\WPFTest.EntityFramework.csproj", "{81EF3D3A-3678-4B3A-8E13-174820BF1B34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A2F167-8D99-48CC-8D3D-87A3B12FB514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A2F167-8D99-48CC-8D3D-87A3B12FB514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A2F167-8D99-48CC-8D3D-87A3B12FB514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A2F167-8D99-48CC-8D3D-87A3B12FB514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EF3D3A-3678-4B3A-8E13-174820BF1B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EF3D3A-3678-4B3A-8E13-174820BF1B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EF3D3A-3678-4B3A-8E13-174820BF1B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EF3D3A-3678-4B3A-8E13-174820BF1B34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FD8553-05D2-4A92-A580-57B0BBEFD3D4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+mekedi karanne mulin class lib ekak aragena ekata.meke model ekak hadanawa eke thami hanadde entity.
+ita passe service folder ekak use karanawa ekata danne IDataService wage ewwa ekan thama database ekath ekka connect karanne.
+	IDataService eka tinne okkoma crud funtion wala inerfaces eka thma.
+-----------------------------------------
+ita passe karanne entity frameworks ekata wenama class lib ekak use karanawa.
+	eka efcore eka install karanawa mulinma.ita passe ekata DB Context eka hadana eka thama karnne ita passe DbContext eka 
+	inherit karala dbset eken table tika hadanawa.connetction tika hadanna one migration karanna kalin.
+---------------------------------
+connection string 
+	meka connection string eka danawidiha api ekata wada wenas.sql server nuget package eka daganna one.
+	Server=(localdb)\\MSSQLLocalDB;Database=WPFTestDb;Trusted_Connection=True;MultipleActiveResultSets=True
+		mekata danna one thawath nuget package ekak thamai ef tools kiyana eka.

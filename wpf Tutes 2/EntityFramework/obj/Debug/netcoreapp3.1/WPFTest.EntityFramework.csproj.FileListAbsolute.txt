@@ -1,0 +1,13 @@
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\WPFTest.EntityFramework.deps.json
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\WPFTest.EntityFramework.runtimeconfig.json
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\WPFTest.EntityFramework.runtimeconfig.dev.json
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\WPFTest.EntityFramework.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\WPFTest.EntityFramework.pdb
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\WPFTest.Domain.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\bin\Debug\netcoreapp3.1\WPFTest.Domain.pdb
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\WPFTest.EntityFramework.csprojAssemblyReference.cache
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\WPFTest.EntityFramework.AssemblyInfoInputs.cache
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\WPFTest.EntityFramework.AssemblyInfo.cs
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\WPFTest.EntityFramework.csproj.CopyComplete
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\WPFTest.EntityFramework.dll
+F:\udemy\.netWPF\work\wpf Tutes 2\EntityFramework\obj\Debug\netcoreapp3.1\WPFTest.EntityFramework.pdb
